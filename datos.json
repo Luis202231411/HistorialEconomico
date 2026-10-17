@@ -5,5 +5,12 @@
     "recipient": "Luis Pérez",
     "amount": 160,
     "description": "Parte de la ultima venta de carnitas"
+  },
+  {
+    "type": "Ingreso",
+    "date": "2026-10-10",
+    "recipient": "Luis Pérez",
+    "amount": 345,
+    "description": "Venta Dominical Junio/Julio"
   }
 ]
