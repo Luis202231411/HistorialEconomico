@@ -12,5 +12,12 @@
     "recipient": "Luis Pérez",
     "amount": 345,
     "description": "Venta Dominical Junio/Julio"
+  },
+  {
+    "type": "Ingreso",
+    "date": "2026-09-27",
+    "recipient": "Luis Pérez",
+    "amount": 269,
+    "description": "Venta Dominical"
   }
 ]
