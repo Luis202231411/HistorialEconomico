@@ -26,5 +26,12 @@
     "recipient": "Gladys Pablo",
     "amount": 34,
     "description": "Ofrenda servicio juvenil"
+  },
+  {
+    "type": "Ingreso",
+    "date": "2026-10-24",
+    "recipient": "Luis Perez",
+    "amount": 35,
+    "description": "Ofrenda servicio"
   }
 ]
