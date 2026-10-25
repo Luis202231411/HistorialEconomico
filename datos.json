@@ -33,5 +33,12 @@
     "recipient": "Luis Perez",
     "amount": 35,
     "description": "Ofrenda servicio"
+  },
+  {
+    "type": "Ingreso",
+    "date": "2026-10-25",
+    "recipient": "Gladys Pablo",
+    "amount": 370,
+    "description": "Venta Dominical"
   }
 ]
