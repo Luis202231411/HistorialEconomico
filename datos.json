@@ -40,5 +40,12 @@
     "recipient": "Gladys Pablo",
     "amount": 370,
     "description": "Venta Dominical"
+  },
+  {
+    "type": "Ingreso",
+    "date": "2026-11-08",
+    "recipient": "Gladys Pablo",
+    "amount": 34.75,
+    "description": "Ofrenda servicio"
   }
 ]
