@@ -47,5 +47,12 @@
     "recipient": "Gladys Pablo",
     "amount": 34.75,
     "description": "Ofrenda servicio"
+  },
+  {
+    "type": "Egreso",
+    "date": "2026-11-07",
+    "recipient": "Marcela",
+    "amount": 140,
+    "description": "Actividad Especial"
   }
 ]
